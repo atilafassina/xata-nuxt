@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://demos-urucbe.eu-central-1.xata.sh/db/nuxt-blog",
+  "codegen": {
+    "output": "lib/xata.codegen.ts"
+  }
+}
